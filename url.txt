@@ -1,2 +1,5 @@
 Link Google Colab :
 https://colab.research.google.com/drive/1rHj06oKjpOLJpLFW-51JJCtKnTWV7426?usp=sharing
+
+Link Streamlit :
+https://pythonanalyst.streamlit.app/
